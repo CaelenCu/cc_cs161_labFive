@@ -19,10 +19,24 @@ class Main{
       //prints new information
       System.out.println(personOne.getInfo());
 
+      //prints person's First Name
+      System.out.println(personOne.getFirstName());
+
+      //prints person's Last Name
+      System.out.println(personOne.getLastName());
+
+      //prints person's Age
+      System.out.println(personOne.getAge());
+ 
+ 
+
        
     }
 }
 /* FOOTER
 Jim Hall 12
 Jerry Man 13
+Jerry
+Man
+13
 */
